@@ -15,7 +15,7 @@ examples (`describe` and `it`) but prefer Test::Unit assertions and mocha, rr
 or flexmock for mocking, you'll be able to do that without having to load the
 components of rspec that you're not using.
 
-## Documentation
+# Documentation
 
 ### rspec-core
 
